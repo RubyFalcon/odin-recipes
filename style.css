@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    color: rgb(226, 90, 0);
+}
+
+.recipe {
+    background-color: aliceblue;
+    width: auto;
+    height: 600px;
+}
+
+.recipe li {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    list-style-type: none;
+}
