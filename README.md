@@ -1,0 +1,1 @@
+This project is a quick starter/ revision for html applications
