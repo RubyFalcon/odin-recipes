@@ -1,7 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     height: auto;
     width: auto;
     text-align: center;
     color: hsl(36, 100%, 75%);
     background-color: hsl(253, 51%, 25%);
+    font-size: 48px;
+    
+}
+
+.recipe {
+    font-size: 32px;
+    color: rgb(236, 143, 90);
+    background-color: hsl(36, 100%, 30%);
 }
