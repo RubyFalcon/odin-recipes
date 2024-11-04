@@ -1,0 +1,7 @@
+h1 {
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: hsl(36, 100%, 75%);
+    background-color: hsl(253, 51%, 25%);
+}
