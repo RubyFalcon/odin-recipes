@@ -22,10 +22,11 @@
 
 .recipe {
     height: auto;
-    width: 128px;
+    display: inline-block;
+    width: 300px;
     font-size: 32px;
     color: rgb(236, 143, 90);
     background-color: hsl(36, 100%, 30%);
-    /* padding: 20px;
-    margin: 10px; */
+    padding: 20px;
+    margin: 10px;
 }
